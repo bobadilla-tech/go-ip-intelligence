@@ -1,5 +1,7 @@
 # IP Intelligence
 
+[![codecov](https://codecov.io/gh/bobadilla-tech/go-ip-intelligence/graph/badge.svg?token=N3O0R9J0SN)](https://codecov.io/gh/bobadilla-tech/go-ip-intelligence)
+
 A Go package for IP address intelligence. Given any IPv4 or IPv6 address it
 determines whether the address belongs to a VPN provider, a proxy (public or
 web), a Tor exit node, or a hosting/data-centre range, derives a structured
