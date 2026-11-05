@@ -1,7 +1,7 @@
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/ip2location/ip2proxy-go/v4 v4.1.0 h1:eHd4WL6Fk21TcKRXxCuyBTcW2ZPfWWiAA5Qd5PCM1G4=
-github.com/ip2location/ip2proxy-go/v4 v4.1.0/go.mod h1:knSLTGvow2tCTxGuZNACMiqRW7h9u/F7KFrPa8HBJ8U=
+github.com/ip2location/ip2proxy-go/v4 v4.2.0 h1:bMe8R2abGCDUegl6cGMSINLg63n/trPo4tzHI0RSDGM=
+github.com/ip2location/ip2proxy-go/v4 v4.2.0/go.mod h1:knSLTGvow2tCTxGuZNACMiqRW7h9u/F7KFrPa8HBJ8U=
 github.com/oschwald/geoip2-golang v1.13.0 h1:Q44/Ldc703pasJeP5V9+aFSZFmBN7DKHbNsSFzQATJI=
 github.com/oschwald/geoip2-golang v1.13.0/go.mod h1:P9zG+54KPEFOliZ29i7SeYZ/GM6tfEL+rgSn03hYuUo=
 github.com/oschwald/maxminddb-golang v1.13.1 h1:G3wwjdN9JmIK2o/ermkHM+98oX5fS+k5MbwsmL4MRQE=
